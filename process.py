@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 # Directly hardcode the API key (Not recommended for production, but we can do if its a personal project)
-api_key = "<YOUR-API-KEY"
+api_key = "<YOUR-API-KEY>"
 
 # Configure the Generative AI API with your API key
 genai.configure(api_key=api_key)
