@@ -1,0 +1,7 @@
+streamlit 
+langchain 
+langchain_ollama
+selenium
+python-dotenv
+PyPDF2
+google-generativeai
