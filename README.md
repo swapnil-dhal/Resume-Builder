@@ -24,14 +24,14 @@ In this project, I built a Resume Scanner app with the help of the Streamlit lib
 
 3. **Create a Virtual Environment for the Project**
 
-   - a. For windows system:
+   - For windows system:
 
    ```bash
           python -m venv nameofyourenvironment
           nameofyourenvironment\Scripts\activate
    ```
 
-   - b. For Mac/Linux(Ubuntu):
+   - For Mac/Linux(Ubuntu):
 
    ```bash
          python3 -m venv nameofyourenvironment
@@ -40,13 +40,13 @@ In this project, I built a Resume Scanner app with the help of the Streamlit lib
 
 4. **Install Dependencies**
 
-   - a. For windows system:
+   - For windows system:
 
    ```bash
         pip install -r dependencies.txt
    ```
 
-   - b For Mac/Linux(Ubuntu):
+   - For Mac/Linux(Ubuntu):
 
    ```bash
         pip3 install -r dependencies.txt
